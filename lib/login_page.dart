@@ -17,8 +17,8 @@ class _LoginPageState extends State<LoginPage> {
           Flexible(
             flex: 10,
             child: SizedBox(
-              width: 100,
-              height: 100,
+              width: 130,
+              height: 130,
               child: Image.network(
                   'https://www.pngkit.com/png/full/55-558373_tinder-apple-tv-survey-methodology.png'),
             ),
@@ -32,9 +32,9 @@ class _LoginPageState extends State<LoginPage> {
                     style: TextStyle(
                         color: Colors.white,
                         fontWeight: FontWeight.bold,
-                        fontSize: 18)),
+                        fontSize: 25)),
                 Text('Plugin app for Tinder',
-                    style: TextStyle(color: Colors.white)),
+                    style: TextStyle(color: Colors.white, fontSize: 17)),
               ],
             ),
           ),
@@ -42,8 +42,8 @@ class _LoginPageState extends State<LoginPage> {
           Flexible(
             flex: 20,
             child: SizedBox(
-              height: 40,
-              //width: MediaQuery.of(context).size.width / 2,
+              height: 50,
+              width: MediaQuery.of(context).size.width / 2,
               child: ElevatedButton(
                   style: ElevatedButton.styleFrom(
                     primary: Colors.white,
@@ -52,8 +52,9 @@ class _LoginPageState extends State<LoginPage> {
                     ),
                   ),
                   child: const Text('Login With Facebook',
-                      style:
-                          TextStyle(color: Color.fromARGB(255, 253, 118, 123))),
+                      style: TextStyle(
+                          color: Color.fromARGB(255, 253, 118, 123),
+                          fontSize: 15)),
                   onPressed: () {
                     // ignore: avoid_print
                     print(true);
