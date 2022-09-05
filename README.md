@@ -14,7 +14,7 @@ Ao realizar o segundo curso da Flutterando, resolvi desenvolver o desafio propos
 
 Para o desafio, comecei criando um arquivo chamado “login_page”. Nesse arquivo, podemos encontrar todo o código necessário para a criação da tela de login.
 
-![login_page.dart - primeiro_desafio_flutterando - Visual Studio Code 9_2_2022 1_21_14 PM.png](Desafio%20de%20layout%20da%20Flutterando%202c586569f1024e09a19208b13f6d6b52/login_page.dart_-_primeiro_desafio_flutterando_-_Visual_Studio_Code_9_2_2022_1_21_14_PM.png)
+![login_page.dart - primeiro_desafio_flutterando - Visual Studio Code 9_2_2022 1_21_14 PM.png](https://github.com/thiagopereiramagalhaes/primeiro_desafio_flutterando/blob/master/login_page.dart%20-%20primeiro_desafio_flutterando%20-%20Visual%20Studio%20Code%209_2_2022%201_21_14%20PM.png?raw=true)
 
 Dentro de “login_page” adicionei uma classe StatefulWidget chamada “LoginPage”. É possível conferir [clicando aqui](https://github.com/thiagopereiramagalhaes/primeiro_desafio_flutterando/blob/master/lib/login_page.dart).
 
