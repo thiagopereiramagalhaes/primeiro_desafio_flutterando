@@ -8,7 +8,7 @@
 
 Ao realizar o segundo curso da Flutterando, resolvi desenvolver o desafio proposto. Esse desafio consiste em desenvolver uma tela inicial de login, baseado no APP Tinder.
 
-![Android Emulator - Pixel_4_API_31_5554 8_28_2022 2_28_46 PM.png](Desafio%20de%20layout%20da%20Flutterando%202c586569f1024e09a19208b13f6d6b52/Android_Emulator_-_Pixel_4_API_31_5554_8_28_2022_2_28_46_PM.png)
+![Android Emulator - Pixel_4_API_31_5554 8_28_2022 2_28_46 PM.png](https://github.com/thiagopereiramagalhaes/primeiro_desafio_flutterando/blob/master/Android%20Emulator%20-%20Pixel_4_API_31_5554%208_28_2022%202_28_46%20PM.png?raw=true)
 
 ## Solução
 
